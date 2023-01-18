@@ -1,0 +1,30 @@
+
+ # Begin Testbed Set
+
+ SET_TYPE = SYSTEM
+ SET_NAME = kat-iasik_project.X
+ GENERATED_BY = MPLABX Plugin
+
+    # Begin Source Files
+
+    File = C:/Users/iasik/Desktop/kat-iasik_project.X/newmainXC16.c
+
+    # End Source Files
+
+    # Begin Sysearch Include File Entries
+
+
+    # End Sysearch Include File Entries
+
+    # Begin Sysppvar Preprocessor Macros
+
+    MacroEntry = __dsPIC30F1010__
+    MacroEntry = __XC16__
+
+    # End Sysppvar Preprocessor Macros
+
+    # Begin Options
+
+    # End Options
+
+ # End Testbed Set

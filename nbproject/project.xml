@@ -6,7 +6,7 @@
             <name>kat-iasik_project</name>
             <creation-uuid>734b5337-6738-4fdf-a0c8-1066014e7706</creation-uuid>
             <make-project-type>0</make-project-type>
-            <c-extensions/>
+            <c-extensions>c</c-extensions>
             <cpp-extensions/>
             <header-extensions/>
             <asminc-extensions/>
