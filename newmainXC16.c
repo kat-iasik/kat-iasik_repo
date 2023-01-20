@@ -7,7 +7,7 @@
 
 /*edit for KPT-1 story issue*/
 
-#include "xc.h"
+//#include "xc.h"
 
 int main(void) {
   return 0;

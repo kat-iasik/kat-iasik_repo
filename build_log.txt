@@ -1,0 +1,36 @@
+Child of 1464;24228
+	conhost.exe
+	C:\WINDOWS
+	"\??\C:\WINDOWS\system32\conhost.exe" "0xffffffff" "-ForceV1" 
+#
+#
+Child of 1464;24228
+	conhost.exe
+	C:\WINDOWS\
+	"\??\C:\WINDOWS\system32\conhost.exe" "0x4" 
+#
+#
+Child of 20912;23328
+	Teams.exe
+	C:\Users\iasik\AppData\Local\Microsoft\Teams\current\
+	"C:\Users\iasik\AppData\Local\Microsoft\Teams\current\Teams.exe" "--type=renderer" "--enable-wer" "--user-data-dir=C:\Users\iasik\AppData\Roaming\Microsoft\Teams" "--ms-teams-less-cors=522133263" "--app-user-model-id=com.squirrel.Teams.Teams" "--app-path=C:\Users\iasik\AppData\Local\Microsoft\Teams\current\resources\app.asar" "--autoplay-policy=no-user-gesture-required" "--disable-background-timer-throttling" "--field-trial-handle=1964,13360236179460938445,13943100291538458004,131072" "--enable-features=ContextBridgeMutability,SharedArrayBuffer,WinUseBrowserSpellChecker,WinUseHybridSpellChecker" "--disable-features=CalculateNativeWinOcclusion,ExtraCookieValidityChecks,ForcedColors,MediaFoundationAsyncH264Encoding,PlzServiceWorker,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand" "--lang=en-US" "--device-scale-factor=1.25" "--num-raster-threads=4" "--enable-main-frame-before-activation" "--renderer-client-id=66" "--mojo-platform-channel-handle=5044" "/prefetch:1" 
+#
+#
+Child of 1096;24312
+	dllhost.exe
+	C:\WINDOWS\system32\
+	"C:\WINDOWS\system32\DllHost.exe" "/Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}" 
+#
+#
+Child of 1464;22868
+	cmd.exe
+	C:\Users\iasik\Desktop\kat-iasik_project.X\
+	"C:\WINDOWS\system32\cmd.exe" "/c" "xc16_build.bat" 
+#
+#
+Child of 1464;24228
+	conhost.exe
+	
+	
+#
+#
