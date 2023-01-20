@@ -3,3 +3,4 @@ dist
 .generated_files
 build
 nbproject\private
+nbproject\*.mk
