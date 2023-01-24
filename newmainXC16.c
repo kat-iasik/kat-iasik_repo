@@ -14,6 +14,6 @@ int main(void) {
 }
 
 static void deneme(){
-
+uint8_t deneme=0;
 
 }
