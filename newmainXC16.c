@@ -6,6 +6,7 @@
  */
 
 /*edit for KPT-1 story issue*/
+/*edit for SKP-67*/
 
 //#include "xc.h"
 
