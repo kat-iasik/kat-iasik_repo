@@ -2,5 +2,5 @@ build_log.txt
 dist
 .generated_files
 build
-nbproject\private
-nbproject\*.mk
+nbproject/private
+nbproject/Makefile-*.mk
