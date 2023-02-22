@@ -14,6 +14,9 @@ int main(void) {
   return 0;
 }
 
+/**
+* @wi.implements Toolchain_Polarion TP-509 empty deneme function
+*/
 static void deneme(){
 uint8_t deneme=0;
 
