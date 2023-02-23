@@ -15,7 +15,7 @@ int main(void) {
 }
 
 /**
-* @wi.implements Toolchain_Polarion TP-509 commit without work item id
+* @wi.implements Toolchain_Polarion TP-509 new commit for TP-509
 */
 static void deneme(){
 uint8_t deneme=0;
