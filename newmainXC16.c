@@ -15,7 +15,7 @@ int main(void) {
 }
 
 /**
-* @wi.implements Toolchain_Polarion TP-509 commit-1 for TP-509
+* @wi.implements Toolchain_Polarion TP-509 commit-2 for TP-509
 */
 static void deneme(){
 uint8_t deneme=0;
